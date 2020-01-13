@@ -1,0 +1,7 @@
+1) lo user, la password, l'indirizzo del server, il nome del database
+2) config e err
+3) se la query restituisce un errore
+4) sql.request
+5) la query, l'errore e il risultato
+6) json
+7) prepara la query per essere eseguita
